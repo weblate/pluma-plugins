@@ -1,28 +1,29 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR MATE Desktop Environment team
 # This file is distributed under the same license as the pluma-plugins package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
-# Translators:
 # Hilding Kåstad <hilding.kastad@gmail.com>, 2020
 # 6a42dd6e7ca9a813693714b0d9aa1ad8, 2021
 # Tobias Lekare <lekare@linux.com>, 2021
 # Luna Jernberg <droidbittin@gmail.com>, 2024
-# Daniel Nylander <po@danielnylander.se>, 2025
-# 
+# Daniel Nylander <po@danielnylander.se>, 2025, 2026.
+#
+# Translators:
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: pluma-plugins 1.27.0\n"
 "Report-Msgid-Bugs-To: https://github.com/mate-desktop/pluma-plugins/issues\n"
 "POT-Creation-Date: 2023-09-10 11:43+0200\n"
-"PO-Revision-Date: 2020-12-08 11:22+0000\n"
-"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
-"Language-Team: Swedish (https://app.transifex.com/mate/teams/13566/sv/)\n"
+"PO-Revision-Date: 2026-10-11 10:59+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
+"Language-Team: Swedish <https://translate.fedoraproject.org/projects/mate-"
+"desktop/applications/pluma-plugins/sv/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: sv\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.10.1\n"
 
 #: plugins/bookmarks/bookmarks.plugin.desktop.in.in:5
 #: plugins/bookmarks/pluma-bookmarks.metainfo.xml.in.in:6
@@ -69,7 +70,7 @@ msgstr "Lägger automatiskt till avslutande parenteser."
 #: plugins/codecomment/codecomment.plugin.desktop.in.in:6
 #: plugins/codecomment/pluma-codecomment.metainfo.xml.in.in:6
 msgid "Code Comment"
-msgstr "Kod kommentar"
+msgstr "Kodkommentar"
 
 #: plugins/codecomment/codecomment.plugin.desktop.in.in:7
 msgid "Comment out or uncomment a selected block of code."
@@ -107,11 +108,11 @@ msgstr "Glöm att du inte använder tabuleringar."
 #: plugins/sourcecodebrowser/sourcecodebrowser/configure_dialog.ui:13
 #: plugins/sourcecodebrowser/sourcecodebrowser/sourcecodebrowser.py:374
 msgid "Source Code Browser"
-msgstr "Browser för källkod"
+msgstr "Källkodsbläddrare"
 
 #: plugins/sourcecodebrowser/sourcecodebrowser.plugin.desktop.in.in:7
 msgid "A source code class and function browser for Pluma."
-msgstr "En klass- och funktionsbläddrare för källkod för Pluma."
+msgstr "En bläddrare för källkodsklasser och funktioner i Pluma."
 
 #: plugins/sourcecodebrowser/sourcecodebrowser/configure_dialog.ui:57
 msgid "Show _line numbers in tree"
@@ -119,11 +120,11 @@ msgstr "Visa _linjenummer i träd"
 
 #: plugins/sourcecodebrowser/sourcecodebrowser/configure_dialog.ui:76
 msgid "Load symbols from _remote files"
-msgstr "Ladda symboler från _remote-filer"
+msgstr "Ladda symboler från _fjärrfiler"
 
 #: plugins/sourcecodebrowser/sourcecodebrowser/configure_dialog.ui:95
 msgid "Start with rows _expanded"
-msgstr "Börja med rader _expanded"
+msgstr "Börja med _expanderade rader"
 
 #: plugins/sourcecodebrowser/sourcecodebrowser/configure_dialog.ui:114
 msgid "_Sort list alphabetically"
@@ -131,7 +132,7 @@ msgstr "_Sortera listan i alfabetisk ordning"
 
 #: plugins/sourcecodebrowser/sourcecodebrowser/configure_dialog.ui:139
 msgid "ctags executable"
-msgstr "ctags körbar"
+msgstr "Ctags-körprogram"
 
 #: plugins/sourcecodebrowser/sourcecodebrowser/configure_dialog.ui:152
 msgid "ctags"
@@ -175,7 +176,7 @@ msgstr ""
 
 #: plugins/sourcecodebrowser/org.mate.pluma.plugins.sourcecodebrowser.gschema.xml.in:26
 msgid "Ctags Executable"
-msgstr "Ctags körbar"
+msgstr "Ctags-körprogram"
 
 #: plugins/sourcecodebrowser/org.mate.pluma.plugins.sourcecodebrowser.gschema.xml.in:27
 msgid "Specifies the executable path for Exuberant Ctags."
@@ -188,7 +189,7 @@ msgstr "SyncTeX"
 
 #: plugins/synctex/pluma-synctex.metainfo.xml.in.in:7
 msgid "Synchronize between LaTeX and PDF with pluma and atril"
-msgstr "Synkronisera mellan LaTeX och PDF med pluma och atril"
+msgstr "Synkronisera mellan LaTeX och PDF med Pluma och Atril"
 
 #: plugins/synctex/synctex.plugin.desktop.in.in:7
 msgid "Synchronize between LaTeX and PDF with pluma and atril."
@@ -201,15 +202,15 @@ msgstr "Sök framåt"
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:17
 msgid "Whether to silence terminal bell"
-msgstr "Om terminalljudet ska tystas"
+msgstr "Om terminalsignalen ska tystas"
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:18
 msgid ""
 "If true, don’t make a noise when applications send the escape sequence for "
 "the terminal bell."
 msgstr ""
-"Om så är fallet, gör inget väsen av dig när applikationerna skickar escape-"
-"sekvensen för terminalklockan."
+"Om sant ska inget ljud spelas när program skickar escape-sekvensen för "
+"terminalsignalen."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:25
 msgid "Number of lines to keep in scrollback"
@@ -221,13 +222,13 @@ msgid ""
 "terminal by this number of lines; lines that don’t fit in the scrollback are"
 " discarded. If scrollback-unlimited is true, this value is ignored."
 msgstr ""
-"Antal linjer för återbläddring som ska behållas. Du kan bläddra tillbaka i "
-"terminalen med detta antal rader; rader som inte ryms i återbläddringen "
-"kasseras. Om scrollback-unlimited är true ignoreras detta värde."
+"Antal rader att behålla i rullningshistoriken. Du kan bläddra tillbaka i "
+"terminalen så många rader; rader som inte ryms i rullningshistoriken "
+"kasseras. Om scrollback-unlimited är sant ignoreras värdet."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:35
 msgid "Whether an unlimited number of lines should be kept in scrollback"
-msgstr "Om obegränsat antal rader ska behållas i rullningshistoriken"
+msgstr "Om ett obegränsat antal rader ska behållas i rullningshistoriken"
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:38
 msgid ""
@@ -235,28 +236,26 @@ msgid ""
 " stored on disk temporarily, so this may cause the system to run out of disk"
 " space if there is a lot of output to the terminal."
 msgstr ""
-"Om sant så kommer inga rader i rullningshistoriken att försvinna. "
-"Rullningshistoriken lagras temporärt på disk så detta kan orsaka att "
-"systemet får slut på diskutrymme om det är mycket utdata i terminalfönstret."
+"Om sant kasseras aldrig rader i rullningshistoriken. Rullningshistoriken "
+"lagras tillfälligt på disken, så systemet kan få slut på diskutrymme om "
+"terminalen har mycket utdata."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:47
 msgid "Whether to scroll to the bottom when a key is pressed"
-msgstr "Om det ska rullas till nedersta läget då en tangent trycks ned"
+msgstr "Om terminalen ska rulla längst ned när en tangent trycks ned"
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:48
 msgid "If true, pressing a key jumps the scrollbar to the bottom."
-msgstr ""
-"Om sant hoppar rullningslisten till nedersta läget då en tangent trycks ned."
+msgstr "Om sant flyttas rullningslisten längst ned när en tangent trycks ned."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:54
 msgid "Whether to scroll to the bottom when there’s new output"
-msgstr "Om du vill skrolla till botten när det finns ny output"
+msgstr "Om terminalen ska rulla längst ned när det finns ny utdata"
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:55
 msgid ""
 "If true, whenever there’s new output the terminal will scroll to the bottom."
-msgstr ""
-"Om true, kommer terminalen att scrolla till botten när det finns ny utdata."
+msgstr "Om sant rullar terminalen längst ned när det finns ny utdata."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:62
 msgid "Default color of text in the terminal"
@@ -298,16 +297,15 @@ msgstr ""
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:85
 msgid "Whether to use the colors from the theme for the terminal widget"
-msgstr "Om färgerna från temat ska användas för terminalwidgeten"
+msgstr "Om färgerna från temat ska användas för terminalkomponenten"
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:88
 msgid ""
 "If true, the theme color scheme used for text entry boxes will be used for "
 "the terminal, instead of colors provided by the user."
 msgstr ""
-"Om sant kommer temafärgschemat som används för textinmatningsfält att "
-"användas för terminalfönstret istället för de färger som angetts av "
-"användaren."
+"Om sant används temats färgschema för textinmatningsfält i terminalen i "
+"stället för färger som användaren angett."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:95
 msgid "Whether to blink the cursor"
@@ -318,8 +316,8 @@ msgid ""
 "The possible values are “system” to use the global cursor blinking settings,"
 " or “on” or “off” to set the mode explicitly."
 msgstr ""
-"De möjliga värdena är \"system\" för att använda de globala inställningarna "
-"för markörblinkning, eller \"on\" eller \"off\" för att ange läget explicit."
+"Möjliga värden är ”system” för att använda de globala inställningarna för "
+"markörblinkning samt ”on” och ”off” för att ange läget uttryckligen."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:103
 msgid "The cursor appearance"
@@ -330,9 +328,8 @@ msgid ""
 "The possible values are “block” to use a block cursor, “ibeam” to use a "
 "vertical line cursor, or “underline” to use an underline cursor."
 msgstr ""
-"De möjliga värdena är \"block\" för att använda en blockmarkör, \"ibeam\" "
-"för att använda en vertikal linjemarkör eller \"underline\" för att använda "
-"en underlinjemarkör."
+"Möjliga värden är ”block” för en blockmarkör, ”ibeam” för en vertikal "
+"linjemarkör och ”underline” för en markör med understrykning."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:111
 msgid "Whether to use the system font"
@@ -343,9 +340,8 @@ msgid ""
 "If true, the terminal will use the desktop-global standard font if it’s "
 "monospace (and the most similar font it can come up with otherwise)."
 msgstr ""
-"Om true, kommer terminalen att använda desktop-global standardteckensnitt om"
-" det är monospace (och det mest liknande teckensnitt som den kan komma på "
-"annars)."
+"Om sant använder terminalen skrivbordets globala standardtypsnitt om det har "
+"fast bredd, annars det mest liknande tillgängliga typsnittet."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:120
 msgid "Font"
@@ -368,7 +364,7 @@ msgstr "En enkel terminalwidget som är tillgänglig från den nedre panelen"
 
 #: plugins/terminal/terminal.plugin.desktop.in.in:6
 msgid "Embedded Terminal"
-msgstr "Inbyggd Terminal"
+msgstr "Inbyggd terminal"
 
 #: plugins/terminal/terminal.plugin.desktop.in.in:7
 msgid "Embed a terminal in the bottom pane."
@@ -396,7 +392,7 @@ msgstr "Den minsta ordstorleken för att slutföra."
 
 #: plugins/wordcompletion/pluma-word-completion-plugin.c:166
 msgid "Document Words"
-msgstr "Dokument Ord"
+msgstr "Dokumentord"
 
 #: plugins/wordcompletion/wordcompletion.plugin.desktop.in.in:5
 msgid "Word Completion"
@@ -409,9 +405,9 @@ msgstr "Ordkomplettering med hjälp av kompletteringsramverket"
 #: plugins/quickhighlight/pluma-quickhighlight.metainfo.xml.in.in:6
 #: plugins/quickhighlight/quickhighlight.plugin.desktop.in.in:5
 msgid "Quickhighlight"
-msgstr "Snabbbelysning"
+msgstr "Snabbmarkering"
 
 #: plugins/quickhighlight/pluma-quickhighlight.metainfo.xml.in.in:7
 #: plugins/quickhighlight/quickhighlight.plugin.desktop.in.in:6
 msgid "Highlights every occurrences of selected text"
-msgstr "Markerar alla förekomster av markerad text"
+msgstr "Markerar varje förekomst av den markerade texten"
