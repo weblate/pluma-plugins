@@ -1,25 +1,27 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR MATE Desktop Environment team
 # This file is distributed under the same license as the pluma-plugins package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
-# Translators:
 # Rihards Priedītis <rprieditis@gmail.com>, 2020
 # Stefano Karapetsas <stefano@karapetsas.com>, 2021
-# 
+# Rihards Prieditis <rprieditis@gmail.com>, 2026.
+#
+# Translators:
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: pluma-plugins 1.27.0\n"
 "Report-Msgid-Bugs-To: https://github.com/mate-desktop/pluma-plugins/issues\n"
 "POT-Creation-Date: 2023-09-10 11:43+0200\n"
-"PO-Revision-Date: 2020-12-08 11:22+0000\n"
-"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>, 2021\n"
-"Language-Team: Latvian (https://app.transifex.com/mate/teams/13566/lv/)\n"
+"PO-Revision-Date: 2026-11-18 19:57+0000\n"
+"Last-Translator: Rihards Prieditis <rprieditis@gmail.com>\n"
+"Language-Team: Latvian <https://translate.fedoraproject.org/projects/mate-"
+"desktop/applications/pluma-plugins/lv/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: lv\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2;\n"
+"X-Generator: Weblate 2026.11.2\n"
 
 #: plugins/bookmarks/bookmarks.plugin.desktop.in.in:5
 #: plugins/bookmarks/pluma-bookmarks.metainfo.xml.in.in:6
@@ -29,184 +31,188 @@ msgstr "Grāmatzīmes"
 #: plugins/bookmarks/bookmarks.plugin.desktop.in.in:6
 #: plugins/bookmarks/pluma-bookmarks.metainfo.xml.in.in:7
 msgid "Easy document navigation with bookmarks"
-msgstr ""
+msgstr "Ērta navigācija dokumentā ar grāmatzīmēm"
 
 #: plugins/bookmarks/pluma-bookmarks-plugin.c:199
 msgid "Toggle Bookmark"
-msgstr ""
+msgstr "Pārslēgt grāmatzīmi"
 
 #: plugins/bookmarks/pluma-bookmarks-plugin.c:200
 msgid "Toggle bookmark status of the current line"
-msgstr ""
+msgstr "Pārslēgt pašreizējās rindas grāmatzīmi"
 
 #: plugins/bookmarks/pluma-bookmarks-plugin.c:202
 msgid "Go to Next Bookmark"
-msgstr ""
+msgstr "Doties uz nākamo grāmatzīmi"
 
 #: plugins/bookmarks/pluma-bookmarks-plugin.c:203
 msgid "Go to the next bookmark"
-msgstr ""
+msgstr "Doties uz nākamo grāmatzīmi"
 
 #: plugins/bookmarks/pluma-bookmarks-plugin.c:205
 msgid "Go to Previous Bookmark"
-msgstr ""
+msgstr "Doties uz iepriekšējo grāmatzīmi"
 
 #: plugins/bookmarks/pluma-bookmarks-plugin.c:206
 msgid "Go to the previous bookmark"
-msgstr ""
+msgstr "Doties uz iepriekšējo grāmatzīmi"
 
 #: plugins/bracketcompletion/bracketcompletion.plugin.desktop.in.in:6
 msgid "Bracket Completion"
-msgstr ""
+msgstr "Iekavu pabeigšana"
 
 #: plugins/bracketcompletion/bracketcompletion.plugin.desktop.in.in:7
 msgid "Automatically adds closing brackets."
-msgstr ""
+msgstr "Automātiski pievieno aizverošās iekavas."
 
 #: plugins/codecomment/codecomment.plugin.desktop.in.in:6
 #: plugins/codecomment/pluma-codecomment.metainfo.xml.in.in:6
 msgid "Code Comment"
-msgstr ""
+msgstr "Koda komentēšana"
 
 #: plugins/codecomment/codecomment.plugin.desktop.in.in:7
 msgid "Comment out or uncomment a selected block of code."
-msgstr ""
+msgstr "Pārvērst atlasīto koda bloku par komentāru vai noņemt komentāru."
 
 #: plugins/codecomment/codecomment.py:91
 msgid "Co_mment Code"
-msgstr ""
+msgstr "Ko_mentēt kodu"
 
 #: plugins/codecomment/codecomment.py:93
 msgid "Comment the selected code"
-msgstr ""
+msgstr "Pārvērst atlasīto kodu par komentāru"
 
 #: plugins/codecomment/codecomment.py:97
 msgid "U_ncomment Code"
-msgstr ""
+msgstr "_Noņemt komentāru"
 
 #: plugins/codecomment/codecomment.py:99
 msgid "Uncomment the selected code"
-msgstr ""
+msgstr "Noņemt komentāru no atlasītā koda"
 
 #: plugins/codecomment/pluma-codecomment.metainfo.xml.in.in:7
 msgid "Comment or uncomment blocks of code"
-msgstr ""
+msgstr "Pārvērst koda blokus par komentāriem vai noņemt komentārus"
 
 #: plugins/smartspaces/smartspaces.plugin.desktop.in.in:6
 msgid "Smart Spaces"
-msgstr ""
+msgstr "Gudrās atstarpes"
 
 #: plugins/smartspaces/smartspaces.plugin.desktop.in.in:7
 msgid "Forget you're not using tabulations."
-msgstr ""
+msgstr "Aizmirstiet, ka neizmantojat tabulācijas."
 
 #: plugins/sourcecodebrowser/sourcecodebrowser.plugin.desktop.in.in:6
 #: plugins/sourcecodebrowser/sourcecodebrowser/configure_dialog.ui:13
 #: plugins/sourcecodebrowser/sourcecodebrowser/sourcecodebrowser.py:374
 msgid "Source Code Browser"
-msgstr ""
+msgstr "Pirmkoda pārlūks"
 
 #: plugins/sourcecodebrowser/sourcecodebrowser.plugin.desktop.in.in:7
 msgid "A source code class and function browser for Pluma."
-msgstr ""
+msgstr "Pirmkoda klašu un funkciju pārlūks programmai Pluma."
 
 #: plugins/sourcecodebrowser/sourcecodebrowser/configure_dialog.ui:57
 msgid "Show _line numbers in tree"
-msgstr ""
+msgstr "Rādīt _rindu numurus kokā"
 
 #: plugins/sourcecodebrowser/sourcecodebrowser/configure_dialog.ui:76
 msgid "Load symbols from _remote files"
-msgstr ""
+msgstr "Ielādēt simbolus no _attāliem failiem"
 
 #: plugins/sourcecodebrowser/sourcecodebrowser/configure_dialog.ui:95
 msgid "Start with rows _expanded"
-msgstr ""
+msgstr "Sākt ar _izvērstām rindām"
 
 #: plugins/sourcecodebrowser/sourcecodebrowser/configure_dialog.ui:114
 msgid "_Sort list alphabetically"
-msgstr ""
+msgstr "_Kārtot sarakstu alfabētiski"
 
 #: plugins/sourcecodebrowser/sourcecodebrowser/configure_dialog.ui:139
 msgid "ctags executable"
-msgstr ""
+msgstr "ctags izpildāmais fails"
 
 #: plugins/sourcecodebrowser/sourcecodebrowser/configure_dialog.ui:152
 msgid "ctags"
-msgstr ""
+msgstr "ctags"
 
 #: plugins/sourcecodebrowser/org.mate.pluma.plugins.sourcecodebrowser.gschema.xml.in:6
 msgid "Show Line Numbers"
-msgstr ""
+msgstr "Rādīt rindu numurus"
 
 #: plugins/sourcecodebrowser/org.mate.pluma.plugins.sourcecodebrowser.gschema.xml.in:7
 msgid "Show the line number of each item in the source tree."
-msgstr ""
+msgstr "Rādīt katra pirmkoda koka vienuma rindas numuru."
 
 #: plugins/sourcecodebrowser/org.mate.pluma.plugins.sourcecodebrowser.gschema.xml.in:11
 msgid "Load Remote Files"
-msgstr ""
+msgstr "Ielādēt attālos failus"
 
 #: plugins/sourcecodebrowser/org.mate.pluma.plugins.sourcecodebrowser.gschema.xml.in:12
 msgid "Download remote files into a temporary file for parsing the symbols."
-msgstr ""
+msgstr "Lejupielādēt attālos failus pagaidu failā, lai parsētu simbolus."
 
 #: plugins/sourcecodebrowser/org.mate.pluma.plugins.sourcecodebrowser.gschema.xml.in:16
 msgid "Expand Rows"
-msgstr ""
+msgstr "Izvērst rindas"
 
 #: plugins/sourcecodebrowser/org.mate.pluma.plugins.sourcecodebrowser.gschema.xml.in:17
 msgid "Expand the entire source tree when initially loaded."
-msgstr ""
+msgstr "Sākotnējā ielādē izvērst visu pirmkoda koku."
 
 #: plugins/sourcecodebrowser/org.mate.pluma.plugins.sourcecodebrowser.gschema.xml.in:21
 msgid "Sort List"
-msgstr ""
+msgstr "Kārtot sarakstu"
 
 #: plugins/sourcecodebrowser/org.mate.pluma.plugins.sourcecodebrowser.gschema.xml.in:22
 msgid ""
 "Sorts the list of symbols alphabetically rather than by where they occur in "
 "the source file."
 msgstr ""
+"Kārto simbolu sarakstu alfabētiski, nevis pēc to atrašanās vietas pirmkoda "
+"failā."
 
 #: plugins/sourcecodebrowser/org.mate.pluma.plugins.sourcecodebrowser.gschema.xml.in:26
 msgid "Ctags Executable"
-msgstr ""
+msgstr "Ctags izpildāmais fails"
 
 #: plugins/sourcecodebrowser/org.mate.pluma.plugins.sourcecodebrowser.gschema.xml.in:27
 msgid "Specifies the executable path for Exuberant Ctags."
-msgstr ""
+msgstr "Norāda Exuberant Ctags izpildāmā faila ceļu."
 
 #: plugins/synctex/pluma-synctex.metainfo.xml.in.in:6
 #: plugins/synctex/synctex.plugin.desktop.in.in:6
 msgid "SyncTeX"
-msgstr ""
+msgstr "SyncTeX"
 
 #: plugins/synctex/pluma-synctex.metainfo.xml.in.in:7
 msgid "Synchronize between LaTeX and PDF with pluma and atril"
-msgstr ""
+msgstr "Sinhronizēt LaTeX un PDF, izmantojot pluma un atril"
 
 #: plugins/synctex/synctex.plugin.desktop.in.in:7
 msgid "Synchronize between LaTeX and PDF with pluma and atril."
-msgstr ""
+msgstr "Sinhronizēt LaTeX un PDF, izmantojot pluma un atril."
 
 #: plugins/synctex/synctex/synctex.py:316
 #: plugins/synctex/synctex/synctex.py:317
 msgid "Forward Search"
-msgstr ""
+msgstr "Meklēt uz priekšu"
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:17
 msgid "Whether to silence terminal bell"
-msgstr "Vai atslēgt termināļa zvanu"
+msgstr "Vai izslēgt termināļa zvanu"
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:18
 msgid ""
 "If true, don’t make a noise when applications send the escape sequence for "
 "the terminal bell."
 msgstr ""
+"Ja ir \"true\" (patiess), neatskaņot skaņu, kad lietotnes sūta termināļa "
+"zvana atsoļa secību."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:25
 msgid "Number of lines to keep in scrollback"
-msgstr "Rindu skaits, ko paturēt ritināšanas atmiņā"
+msgstr "Atpakaļritināšanā paturamo rindu skaits"
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:26
 msgid ""
@@ -214,10 +220,13 @@ msgid ""
 "terminal by this number of lines; lines that don’t fit in the scrollback are"
 " discarded. If scrollback-unlimited is true, this value is ignored."
 msgstr ""
+"Paturamo atpakaļritināšanas rindu skaits. Terminālī var ritināt atpakaļ par "
+"tik rindām; rindas, kas neietilpst atpakaļritināšanā, tiek izmestas. Ja "
+"scrollback-unlimited ir \"true\" (patiess), šī vērtība tiek ignorēta."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:35
 msgid "Whether an unlimited number of lines should be kept in scrollback"
-msgstr "Vai ritināšanas atmiņā paturēt neierobežotu skaitu rindiņu"
+msgstr "Vai atpakaļritināšanā paturēt neierobežotu rindu skaitu"
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:38
 msgid ""
@@ -225,52 +234,57 @@ msgid ""
 " stored on disk temporarily, so this may cause the system to run out of disk"
 " space if there is a lot of output to the terminal."
 msgstr ""
-"Ja patiess, atpakaļ ritināšanas rindas nekad netiks izmestas. Atpakaļ "
-"ritināšanas vēsture tiks uz laiku saglabāta diskā, tāpēc tas var izraisīt "
-"diska vietas trūkumu, ja terminālī ir daudz izvada."
+"Ja ir \"true\" (patiess), atpakaļritināšanas rindas nekad netiks izmestas. "
+"Atpakaļritināšanas vēsture uz laiku tiek glabāta diskā, tāpēc, ja terminālī "
+"ir daudz izvades, sistēmai var pietrūkt diska vietas."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:47
 msgid "Whether to scroll to the bottom when a key is pressed"
-msgstr ""
-"Vai aizritināt ritjoslu līdz lejai, kad kāds klaviatūras taustiņš tiek "
-"piespiests"
+msgstr "Vai, nospiežot taustiņu, ritināt uz leju"
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:48
 msgid "If true, pressing a key jumps the scrollbar to the bottom."
-msgstr "Ja patiess, nospiežot taustiņu, novieto ritjoslu apakšā."
+msgstr ""
+"Ja ir \"true\" (patiess), taustiņa nospiešana pārvieto ritjoslu uz leju."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:54
 msgid "Whether to scroll to the bottom when there’s new output"
-msgstr ""
+msgstr "Vai, parādoties jaunai izvadei, ritināt uz leju"
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:55
 msgid ""
 "If true, whenever there’s new output the terminal will scroll to the bottom."
 msgstr ""
+"Ja ir \"true\" (patiess), parādoties jaunai izvadei, terminālis ritināsies "
+"uz leju."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:62
 msgid "Default color of text in the terminal"
-msgstr "Noklusētā teksta krāsa terminālī"
+msgstr "Noklusējuma teksta krāsa terminālī"
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:63
 msgid ""
 "Default color of text in the terminal, as a color specification (can be "
 "HTML-style hex digits, or a color name such as “red”)."
 msgstr ""
+"Noklusējuma teksta krāsa terminālī kā krāsas specifikācija (var būt HTML "
+"stila heksadecimālie cipari vai krāsas nosaukums, piemēram, \"red\")."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:71
 msgid "Default color of terminal background"
-msgstr "Noklusētā termināļa fona krāsa"
+msgstr "Noklusējuma termināļa fona krāsa"
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:72
 msgid ""
 "Default color of terminal background, as a color specification (can be HTML-"
 "style hex digits, or a color name such as “red”)."
 msgstr ""
+"Noklusējuma termināļa fona krāsa kā krāsas specifikācija (var būt HTML stila "
+"heksadecimālie cipari vai krāsas nosaukums, piemēram, \"red\")."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:80
 msgid "Palette for terminal applications"
-msgstr "Terminālo aplikāciju palete"
+msgstr "Termināļa lietotņu palete"
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:81
 msgid ""
@@ -278,32 +292,33 @@ msgid ""
 "use. This is that palette, in the form of a colon-separated list of color "
 "names. Color names should be in hex format e.g. \"#FF00FF\""
 msgstr ""
-"Termināļos ir 16 krāsu palete, kuru termināļa aplikācijas var izmantot. Šī "
-"ir tā palete krāsu nosaukumu, kas atdalīti ar kolu, saraksta veidā. Krāsu "
-"nosaukumiem vajadzētu būt pierakstītiem heksadecimālā formā, piem., "
-"\"#FF00FF\""
+"Termināļiem ir 16 krāsu palete, ko var izmantot termināļa lietotnes. Šī ir "
+"šī palete kā ar kolu atdalīts krāsu nosaukumu saraksts. Krāsu nosaukumiem "
+"jābūt heksadecimālā formātā, piemēram, \"#FF00FF\""
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:85
 msgid "Whether to use the colors from the theme for the terminal widget"
-msgstr "Vai lietot pašreizējās tēmas krāsas termināļa logrīkam"
+msgstr "Vai termināļa logrīkam lietot motīva krāsas"
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:88
 msgid ""
 "If true, the theme color scheme used for text entry boxes will be used for "
 "the terminal, instead of colors provided by the user."
 msgstr ""
-"Ja patiess, tēmas krāsu shēma, kas tiek lietota teksta ievades laukos, tiks "
-"izmantota terminālī lietotāja uzdoto krāsu vietā."
+"Ja ir \"true\" (patiess), terminālim lietotāja norādīto krāsu vietā tiks "
+"izmantota motīva krāsu shēma, ko lieto teksta ievades laukiem."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:95
 msgid "Whether to blink the cursor"
-msgstr "Vai kursoram ir jāmirgo"
+msgstr "Vai kursoram mirgot"
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:96
 msgid ""
 "The possible values are “system” to use the global cursor blinking settings,"
 " or “on” or “off” to set the mode explicitly."
 msgstr ""
+"Iespējamās vērtības ir \"system\", lai lietotu globālos kursora mirgošanas "
+"iestatījumus, vai \"on\" vai \"off\", lai režīmu iestatītu tieši."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:103
 msgid "The cursor appearance"
@@ -314,6 +329,9 @@ msgid ""
 "The possible values are “block” to use a block cursor, “ibeam” to use a "
 "vertical line cursor, or “underline” to use an underline cursor."
 msgstr ""
+"Iespējamās vērtības ir \"block\", lai lietotu bloka kursoru, \"ibeam\", lai "
+"lietotu vertikālas līnijas kursoru, vai \"underline\", lai lietotu pasvītras "
+"kursoru."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:111
 msgid "Whether to use the system font"
@@ -324,6 +342,8 @@ msgid ""
 "If true, the terminal will use the desktop-global standard font if it’s "
 "monospace (and the most similar font it can come up with otherwise)."
 msgstr ""
+"Ja ir \"true\" (patiess), terminālis izmantos darbvirsmas globālo standarta "
+"fontu, ja tas ir vienplatuma (citādi — līdzīgāko atrasto fontu)."
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:120
 msgid "Font"
@@ -331,63 +351,63 @@ msgstr "Fonts"
 
 #: plugins/terminal/org.mate.pluma.plugins.terminal.gschema.xml.in:121
 msgid "A Pango font name. Examples are “Sans 12” or “Monospace Bold 14”."
-msgstr ""
+msgstr "Pango fonta nosaukums. Piemēri: \"Sans 12\" vai \"Monospace Bold 14\"."
 
 #: plugins/terminal/pluma-terminal.metainfo.xml.in.in:6
 #: plugins/terminal/terminal.py:315
 msgid "Terminal"
-msgstr "Terminālis"
+msgstr "Terminālī"
 
 #: plugins/terminal/pluma-terminal.metainfo.xml.in.in:7
 msgid "A simple terminal widget accessible from the bottom panel"
-msgstr ""
+msgstr "Vienkāršs termināļa logrīks, kas pieejams apakšējā panelī"
 
 #: plugins/terminal/terminal.plugin.desktop.in.in:6
 msgid "Embedded Terminal"
-msgstr ""
+msgstr "Iegultais terminālis"
 
 #: plugins/terminal/terminal.plugin.desktop.in.in:7
 msgid "Embed a terminal in the bottom pane."
-msgstr ""
+msgstr "Iegult termināli apakšējā panelī."
 
 #: plugins/terminal/terminal.py:336
 msgid "C_hange Directory"
-msgstr ""
+msgstr "Mainīt _mapi"
 
 #: plugins/wordcompletion/org.mate.pluma.plugins.wordcompletion.gschema.xml.in:5
 msgid "Interactive Completion"
-msgstr ""
+msgstr "Interaktīvā pabeigšana"
 
 #: plugins/wordcompletion/org.mate.pluma.plugins.wordcompletion.gschema.xml.in:6
 msgid "Whether to enable interactive completion."
-msgstr ""
+msgstr "Vai iespējot interaktīvo pabeigšanu."
 
 #: plugins/wordcompletion/org.mate.pluma.plugins.wordcompletion.gschema.xml.in:11
 msgid "Minimum Word Size"
-msgstr ""
+msgstr "Minimālais vārda garums"
 
 #: plugins/wordcompletion/org.mate.pluma.plugins.wordcompletion.gschema.xml.in:12
 msgid "The minimum word size to complete."
-msgstr ""
+msgstr "Minimālais pabeidzamā vārda garums."
 
 #: plugins/wordcompletion/pluma-word-completion-plugin.c:166
 msgid "Document Words"
-msgstr ""
+msgstr "Dokumenta vārdi"
 
 #: plugins/wordcompletion/wordcompletion.plugin.desktop.in.in:5
 msgid "Word Completion"
-msgstr ""
+msgstr "Vārdu pabeigšana"
 
 #: plugins/wordcompletion/wordcompletion.plugin.desktop.in.in:6
 msgid "Word completion using the completion framework"
-msgstr ""
+msgstr "Vārdu pabeigšana, izmantojot pabeigšanas ietvaru"
 
 #: plugins/quickhighlight/pluma-quickhighlight.metainfo.xml.in.in:6
 #: plugins/quickhighlight/quickhighlight.plugin.desktop.in.in:5
 msgid "Quickhighlight"
-msgstr ""
+msgstr "Ātrā izcelšana"
 
 #: plugins/quickhighlight/pluma-quickhighlight.metainfo.xml.in.in:7
 #: plugins/quickhighlight/quickhighlight.plugin.desktop.in.in:6
 msgid "Highlights every occurrences of selected text"
-msgstr ""
+msgstr "Izceļ visas atlasītā teksta vietas"
